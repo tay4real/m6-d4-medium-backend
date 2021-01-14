@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "5fff2fcd22322d1d4493b076"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "category": {
+    "name": "Tech",
+    "img": ""
+  },
+  "author": {
+    "name": "Indrek Lasn",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/376/282/1*LhEgzn_fJ2KmBc8Ld7mEfA.png",
+  "createdAt": {
+    "$date": "2021-01-13T17:37:17.888Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:37:17.888Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff306322322d1d4493b077"
+  },
+  "headLine": "My hate level of redux: I created a new library",
+  "subHead": "If you have been using recoil for a while, you might have faced it: outside React Components, it's not possible to get or update values from atoms. This Typescript implementation relying on RxJS will workaround this issue and let you do so.",
+  "content": "string",
+  "category": {
+    "name": "Redux",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:39:47.670Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:39:47.670Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff308422322d1d4493b078"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:40:20.671Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:40:20.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff30ac22322d1d4493b079"
+  },
+  "headLine": "A First Look at React’s New Server Components",
+  "subHead": "Explaining the new approach to fetching data in React.js.",
+  "content": "string",
+  "category": {
+    "name": "Tech",
+    "img": ""
+  },
+  "author": {
+    "name": "Louis Petrik",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:41:00.823Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:41:00.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff30dc22322d1d4493b07a"
+  },
+  "headLine": "6 Front-End Coding Ideas That Will Get You Fired Up to Code",
+  "subHead": "Here’s a bit of coding inspiration",
+  "content": "string",
+  "category": {
+    "name": "Tech",
+    "img": ""
+  },
+  "author": {
+    "name": "Indrek Lasn",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:41:48.038Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:41:48.038Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff30fd22322d1d4493b07b"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:42:21.293Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:42:21.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff311322322d1d4493b07c"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:42:43.535Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:42:43.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff312722322d1d4493b07d"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:43:03.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:43:03.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff313b22322d1d4493b07e"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:43:23.113Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:43:23.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff315322322d1d4493b07f"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:43:47.479Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:43:47.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff315822322d1d4493b080"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:43:52.134Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:43:52.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff317322322d1d4493b081"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:44:19.192Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:44:19.192Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff318522322d1d4493b082"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:44:37.279Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:44:37.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff319e22322d1d4493b083"
+  },
+  "headLine": "A 2021 Roadmap to Learning React  ",
+  "subHead": "All the things you need to know to go from beginner to expert",
+  "content": "",
+  "category": {
+    "name": "React",
+    "img": ""
+  },
+  "author": {
+    "name": "Otubusin Ademuyiwa",
+    "img": ""
+  },
+  "cover": "https://miro.medium.com/fit/c/200/133/1*LxHwNz89_BNVbNlmaLFzeA.jpeg",
+  "createdAt": {
+    "$date": "2021-01-13T17:45:02.402Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-13T17:45:02.402Z"
+  },
+  "__v": 0
+}]
